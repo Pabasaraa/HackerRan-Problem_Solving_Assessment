@@ -1,4 +1,4 @@
-# Problem Solving Skills Assessment
+# Problem Solving Skills Assessment - HackerRank
 This repository contains my solutions to the problem-solving skills assessment tests on HackerRank. Each solution is written in JavaScript.
 
 ## Problem 1: Longest Subarray
